@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetCon_A+_1 Pin=Con_A+-1
+Added Pin To Net: NetName=NetCon_A+_1 Pin=Con_C+-1
+Added Net: Name=NetCon_A+_1
+Added Member To Class: ClassName=Inverter Driver Board Member=Component Con_B+ Component_1
+Added Member To Class: ClassName=Inverter Driver Board Member=Component Out_C+ JT3

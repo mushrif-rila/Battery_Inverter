@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=NetCon_A+_1 Pin=+12V-2
+Change Net Name : Old Net Name=NetCon_A+_1 New Net Name=Net+12V_2

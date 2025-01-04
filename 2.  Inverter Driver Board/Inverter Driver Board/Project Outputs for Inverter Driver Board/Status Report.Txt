@@ -1,0 +1,10 @@
+Output: Orcad/PCB2 Netlist
+Type  : OrCadPCB2Netlist
+From  : Project [Inverter Driver Board.PrjPcb]
+   Generated File[Inverter Driver Board.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:20:13 PM On 12/31/2024

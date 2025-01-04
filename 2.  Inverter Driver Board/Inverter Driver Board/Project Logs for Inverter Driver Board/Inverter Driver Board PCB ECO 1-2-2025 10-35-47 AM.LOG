@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=Net+12V_1 Pin=+12V-1
+Added Pin To Net: NetName=Net+12V_1 Pin=Con_A+-16
+Added Pin To Net: NetName=Net+12V_1 Pin=Con_B+-16
+Added Pin To Net: NetName=Net+12V_1 Pin=Con_C+-16
+Added Net: Name=Net+12V_1

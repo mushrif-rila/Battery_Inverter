@@ -1,0 +1,28 @@
+Added Pin To Net: NetName=Net+12V_2 Pin=+5V-2
+Added Pin To Net: NetName=Net+12V_2 Pin=A-,B-,C--1
+Added Pin To Net: NetName=Net+12V_1 Pin=A-,B-,C--7
+Added Pin To Net: NetName=Net+12V_2 Pin=IC_A+-4
+Added Pin To Net: NetName=Net+12V_2 Pin=IC_A--4
+Added Pin To Net: NetName=NetA-,B-,C-_3 Pin=IC_A--5
+Added Pin To Net: NetName=NetA-,B-,C-_6 Pin=IC_A--6
+Added Pin To Net: NetName=Net+12V_2 Pin=IC_B+-4
+Added Pin To Net: NetName=Net+12V_2 Pin=IC_B--4
+Added Pin To Net: NetName=NetA-,B-,C-_3 Pin=IC_B--5
+Added Pin To Net: NetName=NetA-,B-,C-_6 Pin=IC_B--6
+Added Pin To Net: NetName=Net+12V_2 Pin=IC_C+-4
+Added Pin To Net: NetName=Net+12V_2 Pin=IC_C--4
+Added Pin To Net: NetName=NetA-,B-,C-_3 Pin=IC_C--5
+Added Pin To Net: NetName=NetA-,B-,C-_6 Pin=IC_C--6
+Change Net Name : Old Net Name=Net+12V_2 New Net Name=Net+5V_2
+Added Pin To Net: NetName=Net+5V_1 Pin=+5V-1
+Added Pin To Net: NetName=Net+5V_1 Pin=IC_A+-1
+Added Pin To Net: NetName=Net+5V_1 Pin=IC_A--1
+Added Pin To Net: NetName=Net+5V_1 Pin=IC_B+-1
+Added Pin To Net: NetName=Net+5V_1 Pin=IC_B--1
+Added Pin To Net: NetName=Net+5V_1 Pin=IC_C+-1
+Added Pin To Net: NetName=Net+5V_1 Pin=IC_C--1
+Added Net: Name=Net+5V_1
+Added Pin To Net: NetName=NetOut_A-_3 Pin=Out_A--3
+Added Pin To Net: NetName=NetOut_A-_3 Pin=Out_B--3
+Added Pin To Net: NetName=NetOut_A-_3 Pin=Out_C--3
+Added Net: Name=NetOut_A-_3
